@@ -1,2 +1,2 @@
 # postgreSQL
-Patika nın sağladığı postgreSQL eğitimi sırasında aldığım notlarım ve yaptığım çalışmaların bulunduğu repom.
+Patika nın sağladığı postgreSQL eğitimi sırasında aldığım notlarımın ve yaptığım çalışmalarımın bulunduğu repom.
